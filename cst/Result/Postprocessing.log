@@ -1,0 +1,36 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: m
+  Frequency:  MHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 2024-06-23 14:08:44
+
+  Evaluating 'Gain,Phi=0.0,Max. Value (Subrange)': 2.275 s
+
+  Total time: 2 s  ( = 0 h, 0 m, 2 s )
+
+Template based post-processing finished at: 2024-06-23 14:08:47
+----------------------------------------------------------------------------------------
+Template based post-processing started at: 2024-07-16 16:49:02
+
+  Evaluating 'Gain,Phi=0.0,Max. Value (Subrange)': 2.756 s
+
+  Total time: 3 s  ( = 0 h, 0 m, 3 s )
+
+Template based post-processing finished at: 2024-07-16 16:49:05
+----------------------------------------------------------------------------------------
+Template based post-processing started at: 2024-07-16 17:00:19
+
+  Evaluating 'Gain,Phi=0.0,Max. Value (Subrange)': 2.302 s
+  Evaluating 'Export Farfields to 3DEXPERIENCE Content': 4.074 s
+
+  Total time: 6 s  ( = 0 h, 0 m, 6 s )
+
+Template based post-processing finished at: 2024-07-16 17:00:26
+----------------------------------------------------------------------------------------
